@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//This program is used to take a string from the user and return
+//the string reversed 
 public class stringReverser {
 
     public static void main(String[] args) {
